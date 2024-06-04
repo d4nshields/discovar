@@ -1,7 +1,7 @@
 **Discovar**
 ================
 
-Discovar is a project with related tools that enable searching and exploration of conversational data within the conversational context of AI tools supporting the development of personal and professional artistic works.
+Discovar is a project supporting the development of personal and professional artistic works in the context of artificial intelligence tools.
 
 **Overview**
 ------------
