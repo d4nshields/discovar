@@ -1,11 +1,6 @@
 **Discovar**
 ================
 
-Discovar is a project supporting the development of personal and professional artistic works in the context of artificial intelligence tools.
-
-**Overview**
-------------
-
 Discovar aims to provide a robust and user-friendly interface for searching, filtering, and analyzing conversational data across various AI tools. By leveraging these tools, individuals can harness the collective knowledge and insights to fuel their creative endeavors.
 
 **Goals**
