@@ -15,12 +15,3 @@ Discovar aims to provide a robust and user-friendly interface for searching, fil
 
 Coming soon! (Instructions for developers and users will be added once the project progresses)
 
-**License**
----------
-
-(TBD - Choose a license and add it here)
-
-**Acknowledgments**
-----------------
-
-* (Add acknowledgments or credits for AI tools and libraries used)
